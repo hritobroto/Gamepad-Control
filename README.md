@@ -8,4 +8,4 @@ pip install inputs
 * Version 1.0- Direction and speed control
 
 
-### NB: The error when the controller is removed abruptly is not yet corrected
+##### NB: The error when the controller is removed abruptly is not yet corrected
