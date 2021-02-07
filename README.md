@@ -71,7 +71,7 @@ ___________________________________________________________________________
 
 ##### NB: 
 * The error when the controller is removed abruptly is not yet corrected.
-* Bold fields are executable terminal commands.
+* Highlighted fields are executable terminal commands.
 
 
 
