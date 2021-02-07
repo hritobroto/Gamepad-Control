@@ -1,10 +1,5 @@
 # Gamepad-Control
-Contains python codes to map a controller 
 
-To run the code go to Command Prompt(cmd) in Windows and run the following:
-``` diff
-pip install inputs
-```
 * Basic- All button mapping 
 * Version 1.0- Direction and speed control
 ________________________________________________________________________
@@ -56,6 +51,13 @@ First, lets install EVDEV
 sudo apt-get install python-dev
 sudo apt-get install python-pip
 sudo pip install evdev
+```
+__________________________________________________________________________
+
+### Test communication with INPUTS
+First, lets install input
+``` diff
+pip install inputs
 ```
 __________________________________________________________________________
 
