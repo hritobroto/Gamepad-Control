@@ -9,7 +9,7 @@ pip install inputs
 * Version 1.0- Direction and speed control
 ________________________________________________________________________
 
-## Connecting to the Raspberry Pi
+### Connecting to the Raspberry Pi
 Updating Raspberry Pi:
 ``` diff
 apt-get update && apt-get upgrade -y
