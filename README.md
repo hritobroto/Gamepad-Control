@@ -68,11 +68,30 @@ __________________________________________________________________________
 <br /> Parts: event type, event code, event state.
 ___________________________________________________________________________
 
+### Installing Mosquitto
+``` diff
+sudo apt install -y mosquitto mosquitto-clients
+mosquitto -v
+```
+### Installing Flask
+``` diff
+sudo apt-get update
+sudo apt-get upgrade
+sudo apt-get install python-pip python-flask
+pi@raspberrypi ~ $ sudo pip install flask
+```
+### Installing Paho-MQTT
+``` diff
+sudo pip install paho-mqtt
+```
+
+
+
 
 ##### NB: 
 * The error when the controller is removed abruptly is not yet corrected.
 * Highlighted fields are executable terminal commands.
-
+* Flask as backup if controller fails
 
 
 
