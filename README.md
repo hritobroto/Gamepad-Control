@@ -43,7 +43,7 @@ ls /dev/input
 ```
 Then reconnect/plug the device back in and run the command again.
 This gives the new device that is being added. For eg, Device1
-Now to test out out the incoming data from the device:
+<br /> Now to test out out the incoming data from the device:
 ``` diff
 cat /dev/input/Device1
 ```
