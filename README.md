@@ -13,7 +13,7 @@ Updating Raspberry Pi:
 ###### apt-get update && apt-get upgrade -y
 
 * For bluetooth controllers: 
-  ###### sudo bluetoothctl
+  sudo bluetoothctl
   ###### power on
   ###### agent on
   ###### default-agent
@@ -25,7 +25,7 @@ Updating Raspberry Pi:
   This is the format for pairing the device with the device ID.
 
 * For USB Controllers:
-  Just plug in the USB cable
+  <br /> Just plug in the USB cable
 _________________________________________________________________________
 
 ### Communication
@@ -47,9 +47,9 @@ __________________________________________________________________________
 
 ### Mapping controller:
 * EVDEV
-Parts: ecode type, event code, event value.
+<br /> Parts: ecode type, event code, event value.
 * Inputs
-Parts: event type, event code, event state.
+<br /> Parts: event type, event code, event state.
 ___________________________________________________________________________
 
 
