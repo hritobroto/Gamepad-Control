@@ -13,19 +13,19 @@ Updating Raspberry Pi:
 ###### apt-get update && apt-get upgrade -y
 
 * For bluetooth controllers: 
-###### sudo bluetoothctl
-###### power on
-###### agent on
-###### default-agent
+  ###### sudo bluetoothctl
+  ###### power on
+  ###### agent on
+  ###### default-agent
 
-The bluetoothctl will keep the bluetooth device talking to Linux.
-###### scan on
-This gives a list of the avaiable devices
-###### pair XX:XX:XX:XX:XX:XX
-This is the format for pairing the device with the device ID.
+  The bluetoothctl will keep the bluetooth device talking to Linux.
+  ###### scan on
+  This gives a list of the avaiable devices
+  ###### pair XX:XX:XX:XX:XX:XX
+  This is the format for pairing the device with the device ID.
 
 * For USB Controllers:
-Just plug in the USB cable
+  Just plug in the USB cable
 _________________________________________________________________________
 
 ### Communication
