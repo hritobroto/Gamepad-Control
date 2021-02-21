@@ -99,7 +99,6 @@ ___________________________________________________________________________
 
 
 ##### NB: 
-* The error when the controller is removed abruptly is not yet corrected.
 * Highlighted fields are executable terminal commands.
 * Flask as backup if controller fails
 
