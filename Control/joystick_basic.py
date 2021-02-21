@@ -1,7 +1,6 @@
 #pip install inputs
 
 import inputs
-
 #x=0
 while True:
     #x+=1
