@@ -2,6 +2,7 @@
 
 * Basic- All button mapping 
 * Version 1.0- Direction and speed control
+* Version 2.0- Exception handling
 ________________________________________________________________________
 
 ### Connecting to the Raspberry Pi
@@ -59,6 +60,14 @@ First, lets install input
 ``` diff
 pip install inputs
 ```
+or
+``` diff
+git clone https://github.com/zeth/inputs.git
+cd inputs
+python setup.py install
+```
+or 
+just download inputs.py
 __________________________________________________________________________
 
 ### Mapping controller:
